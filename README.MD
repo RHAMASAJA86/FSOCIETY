@@ -4,7 +4,7 @@
 
 # FSOCIETY Full-Screen Break Blocker
 
-Aplikasi desktop berbasis Python (`tkinter`) yang dirancang untuk mengunci layar penuh (*fullscreen*) selama **30 detik** sebagai pengingat waktu istirahat sejenak. Saat dijalankan, aplikasi menampilkan gambar utama, teks berwarna merah dengan animasi efek mengetik, hitung mundur waktu, serta memblokir sementara input mouse dan keyboard hingga timer selesai.
+Aplikasi desktop berbasis Python (`tkinter`) yang dirancang untuk mengunci layar penuh (*fullscreen*) selama **1 jam** sebagai pengingat waktu istirahat sejenak. Saat dijalankan, aplikasi menampilkan gambar utama, teks berwarna merah dengan animasi efek mengetik, hitung mundur waktu, serta memblokir sementara input mouse dan keyboard hingga timer selesai.
 
 ### ✨ Fitur Utama
 

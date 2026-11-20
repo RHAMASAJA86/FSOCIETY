@@ -16,7 +16,13 @@ Aplikasi desktop berbasis Python (`tkinter`) yang dirancang untuk mengunci layar
 
 ### ⚠️ Peringatan Penting
 
-> **Gunakan dengan bijak!** Proyek ini dibuat semata-mata untuk tujuan edukasi, eksperimen antarmuka Python, dan pengingat istirahat pribadi. Dilarang menyalahgunakan skrip ini untuk mengerjai, mengganggu, atau merugikan perangkat orang lain tanpa izin.
+**Gunakan dengan bijak!** Proyek ini dibuat semata-mata untuk tujuan edukasi, eksperimen antarmuka Python, dan pengingat istirahat pribadi. Dilarang menyalahgunakan skrip ini untuk mengerjai, mengganggu, atau merugikan perangkat orang lain tanpa izin.
+
+## 📄 Lisensi
+
+Proyek ini dilisensikan di bawah **MIT License** — lihat file [LICENSE](LICENSE) untuk detail selengkapnya.
+
+Anda bebas menggunakan, memodifikasi, dan mendistribusikan ulang kode ini untuk tujuan pembelajaran maupun pengembangan pribadi dengan tetap menyertakan pemberitahuan hak cipta asli, serta dengan ketentuan bahwa penulis tidak bertanggung jawab atas segala bentuk penyalahgunaan program ini.
 
 Hal yang perlu diperhatikan sebelum menjalankan perintah program:
 1. **Layar & Input Akan Terkunci:** Begitu skrip dijalankan, layar Anda akan langsung tertutup penuh dan seluruh klik mouse maupun tombol keyboard standar tidak akan berfungsi selama timer berjalan. Pastikan semua pekerjaan penting sudah disimpan terlebih dahulu.

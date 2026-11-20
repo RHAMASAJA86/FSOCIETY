@@ -9,8 +9,8 @@ Aplikasi desktop berbasis Python (`tkinter`) yang dirancang untuk mengunci layar
 ### ✨ Fitur Utama
 
 - **Tampilan Layar Penuh Tanpa Bingkai:** Menggunakan mode `-fullscreen`, `-topmost`, dan `overrideredirect(True)` dengan latar belakang hitam pekat sehingga jendela selalu berada di lapisan paling atas.
-- **Animasi Efek Mengetik (*Typewriter Effect*):** Menampilkan pesan pengingat berwarna merah karakter demi karakter (*"Istirahatlah selama 30 detik ini. Setelah itu, kembalilah berjuang untuk masa depanmu."*) sebelum hitungan mundur dimulai.
-- **Hitung Mundur Otomatis (30 Detik):** Menampilkan timer berformat `JJ:MM:DD` dan menutup program secara otomatis saat waktu habis.
+- **Animasi Efek Mengetik (*Typewriter Effect*):** Menampilkan pesan pengingat berwarna merah karakter demi karakter (*"Istirahatlah selama 1 jam. Setelah itu, kembalilah berjuang untuk masa depanmu."*) sebelum hitungan mundur dimulai.
+- **Hitung Mundur Otomatis (1 jam):** Menampilkan timer berformat `JJ:MM:DD` dan menutup program secara otomatis saat waktu habis.
 - **Pemblokiran Input Sementara:** Mencegah interaksi klik mouse dan tombol keyboard standar serta mengembalikan fokus jendela secara otomatis jika pengguna mencoba berpindah aplikasi.
 - **Dukungan Kompilasi `.exe`:** Dilengkapi fungsi `resource_path` agar aset gambar (`image.png`) dan ikon (`icone.ico`) tetap terbaca saat dibungkus menggunakan PyInstaller.
 
